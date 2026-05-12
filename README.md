@@ -8,10 +8,6 @@
 - [Key Insights and Findings](#key-insights-and-findings)
 - [Conclusion](#conclusion)
 
-
-
-
-
 ## Executive Summary
 This project analysed employee workforce and performance data to understand staffing levels, employee availability, and productivity trends over time. The goal was to turn raw workforce data into clear insights that could support workforce planning and operational decision-making.
 
@@ -31,6 +27,8 @@ The analysis also showed that employees became more productive as they gained ex
 Throughout the project, unexpected results and data anomalies were investigated carefully to ensure the insights reflected real operational patterns rather than data errors.
 
 Overall, the project demonstrated how Power BI and structured analytical methods can transform raw workforce data into reliable business insights through validated KPIs, trend analysis, and interactive reporting dashboards.
+
+[Jump to: Building Stakeholders Trust in the Insight](#building-stakeholders-trust-in-the-insight)
 
 # Project Overview
 This project focused on analysing workforce capacity, availability, and operational productivity using employee and performance data provided across multiple Excel worksheets. The objective was to transform raw operational data into meaningful business insights that could support workforce planning, performance monitoring, and operational decision-making.
@@ -79,6 +77,8 @@ To further support stakeholder understanding and trust, I complemented each visu
 Finally, I designed the report to encourage transparency and interactivity. Slicers for Operational Area, Band, and Reporting Month allowed stakeholders to independently explore the data and validate trends across different workforce segments. This interactive capability helped reinforce confidence in the insights by enabling users to test assumptions and observe how metrics behaved under different filtering conditions.
 
 Overall, stakeholder confidence was built through a combination of rigorous data validation, transparent modelling practices, alignment with formal business definitions, careful anomaly investigation, and clear communication of findings. Rather than focusing solely on producing visuals, the project prioritised analytical integrity and traceability to ensure the insights were both accurate and operationally meaningful.
+
+[Jump to Key Insights and Findings](#key-insights-and-findings)
 
 # Data Cleaning and Preparation Steps
 A structured data cleaning and preparation process was carried out to ensure that the analysis was accurate, reliable, and suitable for workforce performance reporting. All transformation activities were completed within Power Query in Microsoft Power BI Desktop to maintain transparency, reproducibility, and separation between the raw source data and the analytical model.
@@ -190,6 +190,8 @@ A star-schema-style structure was implemented to improve analytical performance 
 
 ## Outcome
 The data cleaning process transformed the raw source files into a structured, validated, and analysis-ready data model suitable for workforce trend analysis and operational performance reporting. The final dataset supported reliable KPI calculation, accurate trend visualisation, and meaningful business interpretation.
+
+[Jump to Table of Content](#table-of-content)
 
 # Assumptions and Analytical Decisions
 Several assumptions and analytical decisions were made during the project to ensure that the analysis remained logically consistent, operationally meaningful, and aligned with the available data structure. These assumptions were necessary because the dataset contained incomplete contextual information and certain business processes were not explicitly documented.
